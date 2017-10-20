@@ -50,7 +50,7 @@
     switch (actualMetric) {
         case 0: //fahrenheit
             
-            self.sgmtControl.numberOfSegments
+            self.sgmtControl.numberOfSegments;
             //set boundaris from 32 - 132
             self.sliderSize.minimumValue = 32;
             self.sliderSize.maximumValue = 132;
